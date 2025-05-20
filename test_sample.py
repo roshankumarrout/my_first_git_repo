@@ -3,3 +3,6 @@ def test_addition():
 
 def test_substraction():
     assert 5 - 2 == 3
+
+def test_multiplication():
+    assert 2 * 2 == 4
