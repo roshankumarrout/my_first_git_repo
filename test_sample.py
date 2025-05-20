@@ -6,3 +6,6 @@ def test_substraction():
 
 def test_multiplication():
     assert 2 * 2 == 4
+
+def test_division():
+    assert 8 /2 == 4
