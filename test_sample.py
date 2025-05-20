@@ -9,3 +9,6 @@ def test_multiplication():
 
 def test_division():
     assert 8 /2 == 4
+
+def test_power():
+    assert 2 ** 3 == 8
