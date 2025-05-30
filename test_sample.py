@@ -12,3 +12,6 @@ def test_division():
 
 def test_power():
     assert 2 ** 3 == 8
+
+def test_name():
+    assert True
